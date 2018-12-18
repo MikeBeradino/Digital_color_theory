@@ -1,3 +1,4 @@
+
 String myName;
 color bestColor;
 int y;

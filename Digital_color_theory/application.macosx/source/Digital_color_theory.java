@@ -16,6 +16,7 @@ import java.io.IOException;
 
 public class Digital_color_theory extends PApplet {
 
+
 String myName;
 int bestColor;
 int y;
