@@ -1,4 +1,6 @@
+![3](https://user-images.githubusercontent.com/12630009/58194415-13714700-7c8b-11e9-9cce-5e892eaa5636.jpg)
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 This is a app developed in Processing for demonstrating digital colors and the relitave hex/dec values.
 
