@@ -1,6 +1,6 @@
 
 
-This is a java app developed in Processing for demonstrating digital colors and the relitave hex/dec values.
+This is a app developed in Processing for demonstrating digital colors and the relitave hex/dec values.
 
 Just download the .zip file, and pick your OS version.
 
